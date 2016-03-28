@@ -1,0 +1,4 @@
+E:\S4A\A415_C#\TP\Pendu\PenduCore\bin\Debug\PenduCore.dll
+E:\S4A\A415_C#\TP\Pendu\PenduCore\bin\Debug\PenduCore.pdb
+E:\S4A\A415_C#\TP\Pendu\PenduCore\obj\Debug\PenduCore.dll
+E:\S4A\A415_C#\TP\Pendu\PenduCore\obj\Debug\PenduCore.pdb

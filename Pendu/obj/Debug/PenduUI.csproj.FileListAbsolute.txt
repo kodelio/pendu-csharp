@@ -1,0 +1,11 @@
+E:\S4A\A415_C#\TP\Pendu\Pendu\obj\Debug\PenduUI.csproj.GenerateResource.Cache
+E:\S4A\A415_C#\TP\Pendu\Pendu\obj\Debug\Pendu.exe
+E:\S4A\A415_C#\TP\Pendu\Pendu\bin\Debug\Pendu.exe.config
+E:\S4A\A415_C#\TP\Pendu\Pendu\bin\Debug\Pendu.exe
+E:\S4A\A415_C#\TP\Pendu\Pendu\bin\Debug\Pendu.pdb
+E:\S4A\A415_C#\TP\Pendu\Pendu\obj\Debug\Pendu.pdb
+E:\S4A\A415_C#\TP\Pendu\Pendu\obj\Debug\PenduUI.csprojResolveAssemblyReference.cache
+E:\S4A\A415_C#\TP\Pendu\Pendu\obj\Debug\Pendu_GERMAN_TOSON.Form1.resources
+E:\S4A\A415_C#\TP\Pendu\Pendu\obj\Debug\Pendu_GERMAN_TOSON.Properties.Resources.resources
+E:\S4A\A415_C#\TP\Pendu\Pendu\bin\Debug\PenduCore.dll
+E:\S4A\A415_C#\TP\Pendu\Pendu\bin\Debug\PenduCore.pdb

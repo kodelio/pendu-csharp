@@ -1,0 +1,9 @@
+E:\S4A\A415_C#\TP\Pendu\Pendu\bin\Debug\Pendu.exe.config
+E:\S4A\A415_C#\TP\Pendu\Pendu\bin\Debug\Pendu.exe
+E:\S4A\A415_C#\TP\Pendu\Pendu\bin\Debug\Pendu.pdb
+E:\S4A\A415_C#\TP\Pendu\Pendu\obj\Debug\Pendu.csprojResolveAssemblyReference.cache
+E:\S4A\A415_C#\TP\Pendu\Pendu\obj\Debug\Pendu.Form1.resources
+E:\S4A\A415_C#\TP\Pendu\Pendu\obj\Debug\Pendu.Properties.Resources.resources
+E:\S4A\A415_C#\TP\Pendu\Pendu\obj\Debug\Pendu.csproj.GenerateResource.Cache
+E:\S4A\A415_C#\TP\Pendu\Pendu\obj\Debug\Pendu.exe
+E:\S4A\A415_C#\TP\Pendu\Pendu\obj\Debug\Pendu.pdb
